@@ -1,0 +1,158 @@
+{
+  "channel_url": "https://www.youtube.com/channel/UCj-MLOeF5Dw_OuRqeygzKdQ/videos",
+  "handle": "@mariofelipeapariciovega4966",
+  "observed_on": "2026-10-01",
+  "review_scope": "Public channel titles and links; not a full technical review.",
+  "videos": [
+    {
+      "id": "IK-v2DuglDA",
+      "title": "Simulación de Monte Carlo",
+      "topic": "Probabilidad y simulación",
+      "url": "https://www.youtube.com/watch?v=IK-v2DuglDA"
+    },
+    {
+      "id": "NaJar1pNmyo",
+      "title": "PFR en el equilibrio Quimico (Reaccion Reversible), Ejemplo 3-4 Levenspiel.",
+      "topic": "Reactores y equilibrio",
+      "url": "https://www.youtube.com/watch?v=NaJar1pNmyo"
+    },
+    {
+      "id": "Hk1bI4514fM",
+      "title": "Trabajar con ecuaciones con VBA en Excel",
+      "topic": "Excel y VBA",
+      "url": "https://www.youtube.com/watch?v=Hk1bI4514fM"
+    },
+    {
+      "id": "PeuFFdE9TSI",
+      "title": "Introduccion al mundo de los Reactores Quimicos",
+      "topic": "Reactores y equilibrio",
+      "url": "https://www.youtube.com/watch?v=PeuFFdE9TSI"
+    },
+    {
+      "id": "QtOOO84-iW0",
+      "title": "Como resolver 10 problemas de CSTR simultaneamente: Crea tu funcion de regresion multiple en Excel.",
+      "topic": "Reactores y regresión",
+      "url": "https://www.youtube.com/watch?v=QtOOO84-iW0"
+    },
+    {
+      "id": "W5yDrJ84iZc",
+      "title": "Determinacion de la constante cinenita en funcion de la T con Regresion matricial y metodo grafico.",
+      "topic": "Cinética y regresión",
+      "url": "https://www.youtube.com/watch?v=W5yDrJ84iZc"
+    },
+    {
+      "id": "4cuBBOEEjBo",
+      "title": "Determinacion de la ley de velocidad de reaccion por regresion matricial parte 1",
+      "topic": "Cinética y regresión",
+      "url": "https://www.youtube.com/watch?v=4cuBBOEEjBo"
+    },
+    {
+      "id": "9K0zIeJy9kU",
+      "title": "Metodo grafico en GeoGebra para Determinar el Volumen de un CSTR y un PFR.",
+      "topic": "Reactores y GeoGebra",
+      "url": "https://www.youtube.com/watch?v=9K0zIeJy9kU"
+    },
+    {
+      "id": "eFXhZ7rKou0",
+      "title": "Comparativo de Excel con GeoGebra.",
+      "topic": "Herramientas numéricas",
+      "url": "https://www.youtube.com/watch?v=eFXhZ7rKou0"
+    },
+    {
+      "id": "hDbm5gULJG8",
+      "title": "Regresión multivariable con GeoGebra, análisis en el plano de un cstr con diferentes ensayos.",
+      "topic": "Reactores y regresión",
+      "url": "https://www.youtube.com/watch?v=hDbm5gULJG8"
+    },
+    {
+      "id": "yBv_DgmvjXo",
+      "title": "Resolución de problemas de reactores CSTR en GeoGebra, mínimos cuadrados.",
+      "topic": "Reactores y regresión",
+      "url": "https://www.youtube.com/watch?v=yBv_DgmvjXo"
+    },
+    {
+      "id": "UKsY1vu51uc",
+      "title": "Escalamiento de un CSTR en GeoGebra.",
+      "topic": "Reactores y GeoGebra",
+      "url": "https://www.youtube.com/watch?v=UKsY1vu51uc"
+    },
+    {
+      "id": "f0ADbJbOrXs",
+      "title": "Regresion multivariable para determinar la velocidad de reaccion con diferentes ensayos-problema-E54",
+      "topic": "Cinética y regresión",
+      "url": "https://www.youtube.com/watch?v=f0ADbJbOrXs"
+    },
+    {
+      "id": "DZPgM0XgUv4",
+      "title": "Problema_C34 del minibook de los reactores quimicos. Proporcion de volumenes.",
+      "topic": "Reactores y equilibrio",
+      "url": "https://www.youtube.com/watch?v=DZPgM0XgUv4"
+    },
+    {
+      "id": "LwxIxgsn0Lk",
+      "title": "Problea E67 del minibook, todas las funciones de excel para problemas de reactores.",
+      "topic": "Reactores y Excel",
+      "url": "https://www.youtube.com/watch?v=LwxIxgsn0Lk"
+    },
+    {
+      "id": "piRXXgqcH9g",
+      "title": "Reactores Quimicos en tu celular. Ley de Velocidad de Reaccion de un CSTR a volumen no constante.",
+      "topic": "Reactores y cinética",
+      "url": "https://www.youtube.com/watch?v=piRXXgqcH9g"
+    },
+    {
+      "id": "0xqR9JsEi2k",
+      "title": "CSTR a Volumen no constante B21 y E67 del Minibook de reactores.",
+      "topic": "Reactores y cinética",
+      "url": "https://www.youtube.com/watch?v=0xqR9JsEi2k"
+    },
+    {
+      "id": "dLDDdrq0A_8",
+      "title": "Interpola en excel, nuevas herramientas interpolacion lineal.",
+      "topic": "Métodos numéricos",
+      "url": "https://www.youtube.com/watch?v=dLDDdrq0A_8"
+    },
+    {
+      "id": "cmeb5qbdXVM",
+      "title": "Crea tus propias funciones: inter_lineal",
+      "topic": "Excel y VBA",
+      "url": "https://www.youtube.com/watch?v=cmeb5qbdXVM"
+    },
+    {
+      "id": "uE4fyxqBLnE",
+      "title": "Comparacion metodo grafico y ajustes en excel",
+      "topic": "Métodos numéricos",
+      "url": "https://www.youtube.com/watch?v=uE4fyxqBLnE"
+    },
+    {
+      "id": "4kUVRXJHYi0",
+      "title": "Parábola de mínimos cuadrados",
+      "topic": "Métodos numéricos",
+      "url": "https://www.youtube.com/watch?v=4kUVRXJHYi0"
+    },
+    {
+      "id": "_G2aD5T846E",
+      "title": "Principios de regresión lineal",
+      "topic": "Métodos numéricos",
+      "url": "https://www.youtube.com/watch?v=_G2aD5T846E"
+    },
+    {
+      "id": "jyF90gZ_fEY",
+      "title": "Metodo grafico para CSTR con V=CTE",
+      "topic": "Reactores y equilibrio",
+      "url": "https://www.youtube.com/watch?v=jyF90gZ_fEY"
+    },
+    {
+      "id": "tg1YX62NZPQ",
+      "title": "Problemas de CSTR con busqueda de objetivo",
+      "topic": "Reactores y Excel",
+      "url": "https://www.youtube.com/watch?v=tg1YX62NZPQ"
+    },
+    {
+      "id": "Wxs0mkUkQXY",
+      "title": "Problema_B7-B8",
+      "topic": "Ejercicio; tema específico por revisar",
+      "url": "https://www.youtube.com/watch?v=Wxs0mkUkQXY"
+    }
+  ]
+}
